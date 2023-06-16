@@ -1,5 +1,5 @@
 let myAccountBalance = parseInt(document.getElementById("myAccountBalance").innerText);
-
+ 
 function sendMoney(){
    var enterName = document.getElementById("enterName").value;
    var enterAmount = parseInt(document.getElementById("enterAmount").value);
